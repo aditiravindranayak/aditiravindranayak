@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/012/744/791/large_2x/cute-girl-working-on-computer-cartoon-icon-illustration-people-and-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg" alt="Girl working on laptop">
+  <img src="https://static.vecteezy.com/system/resources/previews/012/744/791/large_2x/cute-girl-working-on-computer-cartoon-icon-illustration-people-and-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg" alt="Girl working on laptop" style="width: 400px; height: auto;>
 </div>
 
 🔭 I'm currently working on:  Developing and enhancing web and app development projects.<br><br>🌱 I'm currently learning: Advanced JavaScript frameworks, backend development, and exploring new technologies in web and app development.<br><br>🤝 I'm looking to collaborate on: Exciting web and app development projects, open-source contributions, and innovative tech solutions.<br><br>🆘 I'm looking for help with: Backend development, optimizing full-stack applications, and integrating advanced features in web apps.<br><br>💬 Ask me about: Frontend development, web design principles, app development, and the latest trends in web technologies.<br><br>🎉 Fun fact: I am passionate about creating intuitive user experiences and I enjoy learning new programming languages in my free time.<br><br>
